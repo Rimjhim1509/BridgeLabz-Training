@@ -90,10 +90,9 @@ BridgeLabz-Training/
   - String Methods
   - Immutability
   - String vs StringBuilder
-- 📘 Material: **05 - Java String**
 📝 Assignment: [Solution](https://github.com/Rimjhim1509/BridgeLabz-Training/new/core-java-practice)
 ---
-### 📅 **Day 7 – Java Strings**  
+### 📅 **Day 7 – Java String-handling**  
 **(21–22-Dec-2025)**
 
 -Solved additional Java programs:
@@ -101,6 +100,32 @@ BridgeLabz-Training/
   - String Methods
   - Factorial using loops & recursion,Fibonacci series,Palindrome logic enhancement
   - String vs StringBuilder
-- 📘 Material: **05 - Java String**
+📝 Assignment: [Solution](https://github.com/Rimjhim1509/BridgeLabz-Training/new/core-java-practice)
+---
+### 📅 **Day 8 – Java Extra-question**  
+**(26-Dec-2025)**
+
+-Solved additional Java programs:
+  - Calculator using methods
+  - String Methods
+  - Factorial using loops & recursion,Fibonacci series,Palindrome logic enhancement
+  - String vs StringBuilder
+📝 Assignment: [Solution](https://github.com/Rimjhim1509/BridgeLabz-Training/new/core-java-practice)
+---
+### 📅 **Day 9 – Java Strings**  
+**(27-Dec-2025)**
+
+-Solved additional Java programs:
+  - Election Booth Manager ️
+  - Metro Smart Card Fare Deduction 🚇
+  - Raj’s Result Generator ‍
+📝 Assignment: [Solution](https://github.com/Rimjhim1509/BridgeLabz-Training/new/core-java-practice)
+---
+### 📅 **Day 10 – Java Scenario-based Question**  
+**(29-Dec-2025)**
+
+-Solved additional Java programs:
+  -Number Guessing Game
+  - Parking Lot System
 📝 Assignment: [Solution](https://github.com/Rimjhim1509/BridgeLabz-Training/new/core-java-practice)
 ---
