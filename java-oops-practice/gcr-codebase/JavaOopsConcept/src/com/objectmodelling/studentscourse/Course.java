@@ -21,4 +21,14 @@ public class Course {
 	public void showStudent() {
 		System.out.print("Students enrolled in course : "+ courseName);
 	}
+	public String getCourseName() {
+        return courseName;
+    }
+	public void showStudents() {
+        System.out.println("Students enrolled in " + courseName + ":");
+        for (Student s : students) {
+            System.out.println("- " + s.getName());
+        }
+    }
+
 }

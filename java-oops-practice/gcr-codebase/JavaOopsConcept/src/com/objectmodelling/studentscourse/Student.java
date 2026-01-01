@@ -13,8 +13,16 @@ public class Student {
 	public void enrollCourse(Course course) {
 		if(!courses.contains(course)) {
 			courses.add(course);
+			course.addStudent(this); 
 		}
 	}
+	public void showCourses() {
+        System.out.println("Courses enrolled by " + name + ":");
+        for (Course c : courses) {
+            System.out.println("- " + c.getCourseName());
+        }
+    }
+
 	public String getName() {
 		return name ;
 	}
