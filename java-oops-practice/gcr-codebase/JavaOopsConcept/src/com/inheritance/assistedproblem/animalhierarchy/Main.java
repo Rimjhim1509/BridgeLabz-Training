@@ -1,4 +1,4 @@
-package com.inheritance.assistedproblem;
+package com.inheritance.assistedproblem.animalhierarchy;
 
 public class Main {
 	public static void main(String[] args) {

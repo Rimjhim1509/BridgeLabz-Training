@@ -1,4 +1,4 @@
-package com.inheritance.assistedproblem;
+package com.inheritance.assistedproblem.animalhierarchy;
 
 class Dog extends Animal {
 	public Dog(String name , int age) {
