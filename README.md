@@ -23,18 +23,6 @@ BridgeLabz-Training/
 │   ├──scenario-based
 │   └── leetcode-questions
 ```
-## 🚀 **WEEK 1: GIT, GITHUB & JAVA PROGRAMMING FUNDAMENTALS**
-
-### 📅 **Day 1 – Git & GitHub Setup**  
-**(16-Dec-2025)**
-
-- Installed and configured Git.
-- Created and set up a GitHub repository: **BridgeLabz-Training**.
-- Learned and practiced basic Git commands:
-  - `git init`
-  - `git clone`
-  - `git add`
-  - `git commit -m "Initial commit"`
 - 📝 Assignment: [Solution](https://github.com/Rimjhim1509/BridgeLabz-Training/new/core-java-practice)
 ---
 
@@ -127,5 +115,32 @@ BridgeLabz-Training/
 -Solved additional Java programs:
   -Number Guessing Game
   - Parking Lot System
+  - Shopkeeper’s Discount Dashboard 🛍️
+  - School Bus Attendance System 🚍
+  -  Phone Recharge Simulator 📱
+📝 Assignment: [Solution](https://github.com/Rimjhim1509/BridgeLabz-Training/new/core-java-practice)
+---
+### 📅 **Day 11 – Java Scenario-based Question**  
+**(30-Dec-2025)**
+
+-Solved additional Java programs:
+  -Temperature Logger 🌡️
+  - Train Reservation Queue 🚆
+  - Sandeep’s Fitness Challenge Tracker 🏋️
+  - School Bus Attendance System 🚍
+  -  Phone Recharge Simulator 📱
+📝 Assignment: [Solution](https://github.com/Rimjhim1509/BridgeLabz-Training/new/core-java-practice)
+---
+### 📅 **Day 12 – Java Scenario-based Question**  
+**(30-Dec-2025)**
+
+ -Solved additional Java programs:
+  -Movie Ticket Booking App 🎬
+  -  Rohan’s Library Reminder App 📚
+  - 🏋️Digital Watch Simulation ⏱️
+  - Online Quiz Application 🧠
+  -  Currency Exchange Kiosk
+  - Bus Route Distance Tracker 🚌
+  - Festival Lucky Draw 🎉
 📝 Assignment: [Solution](https://github.com/Rimjhim1509/BridgeLabz-Training/new/core-java-practice)
 ---
