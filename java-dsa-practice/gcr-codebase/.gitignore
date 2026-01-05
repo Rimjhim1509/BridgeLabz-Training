@@ -1,0 +1,13 @@
+/.metadata/
+.metadata/
+.settings/
+.classpath
+.project
+bin/
+target/
+build/
+out/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
