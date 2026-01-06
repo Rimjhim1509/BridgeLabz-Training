@@ -6,11 +6,26 @@
 
 - Installed and configured Git
 - Set up GitHub repository
-- <img width="729" height="559" alt="image" src="https://github.com/user-attachments/assets/0d4ea2ec-e862-4f96-aa3c-b533e3a80438" />
-
+```text
+BridgeLabz-Training/
+├── core-java-practice/               ← Core Java fundamental concepts & practice
+│   ├── gcr-codebase/                 ← Most commonly used/practiced problems
+│   │   ├── arrays/
+│   │   ├── extra/
+│   │   │   ├── builtin-functions/
+│   │   │   │   └── string-handling/
+│   │   ├── control-flow/
+│   │   ├── java-methods/
+│   │   ├── programming-elements/
+│   │   └── strings/
+│   └── leet-code-codebase/           ← LeetCode style problems (mostly array/string focused)
+│
+├── scenario-based/                   ← Real-world / project-like coding scenarios
+│
+└── README.md
 - Learned Git commands: `init`, `status`, `add`, `commit`, `push`
 - Pushed initial files to GitHub  
-
+```
 ---
 
 ##  Day 2 – Git Practice & Basic Java Programs
@@ -101,18 +116,18 @@
 ## Day 11 - Static Members, this Keyword & instanceof Operator
 **Date:** 29-Dec-2025
 - Practiced 5 scenario-based questions
-- **Code Link:** [Scenario Based]
+- **Code Link:** [Scenario Based](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/core-java-practice)
 - Practiced questions on static variables, static methods and this keyword
 - Learned and implemented the instanceof operator
-- **Code Link:** [keywords]
+- **Code Link:** [keywords](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/core-java-practice)
 ## Day 12 - Object Modeling in Java
 **Date:** 30-Dec-2025
 - Practiced 5 scenario-based questions
-- **Code Link:** [Scenario Based]
+- **Code Link:** [Scenario Based](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/)
 - Studied Object Modeling concepts
 - Understood Association between classes
 - Learned Aggregation (HAS-A relationship – weak coupling) and Composition (HAS-A relationship – strong coupling)
-- **Code Link:** [objectmodeling]
+- **Code Link:** [objectmodeling](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/)
 ---
 
 ## Day 13 - Inheritance in Java
@@ -121,6 +136,6 @@
 - **Code Link:** [Scenario Based]
 - Implemented Single Inheritance, Multilevel Inheritance, Hierarchical Inheritance, Hybrid Inheritance (using interfaces)
 - Solved assisted inheritance-based problems for better clarity
-- **Code Link:** [Inheritance]
-
+- **Code Link:** [Inheritance](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/Scenariobased-codebase/src/com)
+  Solved Leetcode problems of[ String and Array](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/core-java-practice)
 ---
