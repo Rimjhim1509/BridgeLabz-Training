@@ -30,9 +30,9 @@
   - Understanding key-value pair storage
   - Hashing functions and collision handling
   - Insertion, deletion, and searching operations
-**🔗 Assignment Links:**  
-- [Stack & Queue] 
-- [HashMap & Hashing]
+
+    **🔗 Assignment Link:**  
+  [Linked List]
 
 ---
 
@@ -43,9 +43,9 @@
 - Understanding sorting concepts and importance
 - Implementing Bubble Sort, Selection Sort, and Insertion Sort
 - Comparing algorithm performance and time complexity
-
-**🔗 Assignment Link:**  
-[Sorting Algorithms](#) 
+- 
+**🔗 Assignment Links:**  
+- [Sorting Algorithm] 
 ---
 
 ### 📅 Day 2 – Searching Problems (06-Jan-2026)
@@ -54,6 +54,6 @@
   - Linear Search implementation
   - Binary Search implementation
   - Understanding time complexity of searching techniques
-
+  - 
 **🔗 Assignment Link:**  
-[LeetCode Problems](#) 
+[Searching](#) 
