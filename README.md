@@ -36,7 +36,7 @@ BridgeLabz-Training/
 
 **Git Commands Learned:**  
 `git init`, `git clone`, `git add`, `git commit`, `git push`, `git rebase`
-- **Code Link:** [program-prerequisite](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/core-java-practice/)
+- **Code Link:** [intial_step](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/core-java-practice/)
 ---
 
 ### 📅 Day 2 – Git Practice & Basic Java Programs (16-Dec-2025)
@@ -51,14 +51,14 @@ BridgeLabz-Training/
 **Topics Practiced:**
 - Java comments, data types, variables, arithmetic operators, type conversion, user input.
 - Best practices: meaningful variable names, avoiding hard-coded values.
-- **Code Link:** [program-prerequisite]([https://github.com/Rimjhim1509/BridgeLabz-Training/tree/core-java-practice/](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequesites))
+- **Code Link:** [program-prerequisite](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequesites)
 ---
 
 ### 📅 Day 4 – Control Flow & Lab Practice (18-Dec-2025)
 **Topics Practiced:**
 - Decision making: `if`, `if-else`, nested `if-else`, `switch`, ternary operator  
 - Loops: `for`, `while`, `do-while`
-- - **Code Link:** [control_flow]([https://github.com/Rimjhim1509/BridgeLabz-Training/tree/core-java-practice/](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
+- - **Code Link:** [control_flow](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
 
 ---
 
