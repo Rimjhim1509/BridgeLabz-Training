@@ -1,7 +1,5 @@
 # BridgeLabz Training - Core Java Practice
 ---
-## 🚀 **WEEK 1: GIT, GITHUB & JAVA PROGRAMMING FUNDAMENTALS**
-
 ### 📅 **Day 1 – Git & GitHub Setup**  
 **(16-Dec-2025)**
 
