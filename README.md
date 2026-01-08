@@ -196,3 +196,13 @@ BridgeLabz-Training/
 **Algorithms:** Linear Search, Binary Search
 - **Code Link:** [scenario_search](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/core-java-practice/)
 ---
+### 📅 Day 3 – Scenario-Based Design & Sorting Algorithms (07-Jan-2026)
+**Programs Implemented:**
+- ParkEase – Smart Parking Management System  
+- "LoanBuddy – Loan Approval Automation
+- BookBazaar – Digital Bookstore System
+
+**Sorting Algorithms:** Bubble Sort, Radix Sort, Counting Sort
+- **Code Link:** [sorting_algo](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/core-java-practice/)
+---
+
