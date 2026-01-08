@@ -144,14 +144,14 @@ BridgeLabz-Training/
   - Festival Lucky Draw 🎉
 📝 Assignment: [Solution](https://github.com/Rimjhim1509/BridgeLabz-Training/new/core-java-practice)
 ---
-### 📅 **Day 12 – Leetcode **  
+### 📅 **Day 12 – Leetcode**  
 **(01-Dec-2025)**
 
  -Solved additional Java programs:
   - leetcode easy problem :: 
 📝 Assignment: [Solution](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase)
 ---
-### 📅 **Day 20 – Leetcode **  
+### 📅 **Day 20 – Leetcode**  
 **(08-Dec-2025)**
 
  -Solved additional Java programs:
