@@ -132,7 +132,7 @@ BridgeLabz-Training/
 📝 Assignment: [Solution](https://github.com/Rimjhim1509/BridgeLabz-Training/new/core-java-practice)
 ---
 ### 📅 **Day 12 – Java Scenario-based Question**  
-**(30-Dec-2025)**
+**(31-Dec-2025)**
 
  -Solved additional Java programs:
   -Movie Ticket Booking App 🎬
@@ -144,3 +144,18 @@ BridgeLabz-Training/
   - Festival Lucky Draw 🎉
 📝 Assignment: [Solution](https://github.com/Rimjhim1509/BridgeLabz-Training/new/core-java-practice)
 ---
+### 📅 **Day 12 – Leetcode **  
+**(01-Dec-2025)**
+
+ -Solved additional Java programs:
+  - leetcode easy problem :: 
+📝 Assignment: [Solution](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase)
+---
+### 📅 **Day 20 – Leetcode **  
+**(08-Dec-2025)**
+
+ -Solved additional Java programs:
+  - leetcode easy & medium problem :: 
+📝 Assignment: [Solution](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase)
+---
+
