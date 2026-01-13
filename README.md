@@ -186,22 +186,10 @@ BridgeLabz-Training/
 - Object initialization
 
 **Code Link:** [constructor&instance](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/core-java-practice/)
-
 ---
-
-### 📅 Day 12 – LeetCode Problem Solving & Logic Building (28-Dec-2025)
-
-**Topics Practiced:**
-- Loops, conditionals, edge-case handling
-- Algorithmic thinking
-
-**Code Link:** [leetcode](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/core-java-practice/)
-
----
-
 ## Week 3: Java Keywords & Object Handling
 
-### 📅 Day 13 – `this`, `static`, `final` Keywords & `instanceof` Operator (29-Dec-2025)
+### 📅 Day 12 – `this`, `static`, `final` Keywords & `instanceof` Operator (29-Dec-2025)
 
 **Topics Practiced:**
 - Keywords usage, memory behavior
@@ -211,7 +199,7 @@ BridgeLabz-Training/
 
 ---
 
-### 📅 Day 14 – Object Modeling, Class Diagram & Scenario-Based Programs (30-Dec-2025)
+### 📅 Day 13 – Object Modeling, Class Diagram & Scenario-Based Programs (30-Dec-2025)
 
 **Programs Implemented:**
 - Temperature Logger
@@ -224,7 +212,7 @@ BridgeLabz-Training/
 
 ---
 
-### 📅 Day 15 – Inheritance & Advanced Scenario-Based Programs (31-Dec-2025)
+### 📅 Day 14 – Inheritance & Advanced Scenario-Based Programs (31-Dec-2025)
 
 **Programs Implemented:**
 - Digital Watch Simulation
@@ -237,7 +225,7 @@ BridgeLabz-Training/
 
 ---
 
-### 📅 Day 16 – Encapsulation, Interface & Abstract Classes (01-Jan-2026)
+### 📅 Day 15 – Encapsulation, Interface & Abstract Classes (01-Jan-2026)
 
 **Topics Practiced:**
 - Data hiding using getters/setters
@@ -248,7 +236,7 @@ BridgeLabz-Training/
 
 ---
 
-### 📅 Day 17 – Linked List, Helper Methods & Real-World OOPS Design (02-Jan-2026)
+### 📅 Day 16 – Linked List, Helper Methods & Real-World OOPS Design (02-Jan-2026)
 
 **Programs Implemented:**
 - Hospital Patient Management System
@@ -261,7 +249,7 @@ BridgeLabz-Training/
 
 ---
 
-### 📅 Day 18 – Stack, Queue, HashMap & Enterprise OOPS Systems (03-Jan-2026)
+### 📅 Day 17 – Stack, Queue, HashMap & Enterprise OOPS Systems (03-Jan-2026)
 
 **Programs Implemented:**
 - CabbyGo – Ride Hailing Application
@@ -273,7 +261,7 @@ BridgeLabz-Training/
 
 ## Week 4: Advanced Scenario-Based Design & Algorithms
 
-### 📅 Day 19 – Scenario-Based Design & Sorting Algorithms (05-Jan-2026)
+### 📅 Day 18 – Scenario-Based Design & Sorting Algorithms (05-Jan-2026)
 
 **Programs Implemented:**
 - CampusConnect – College Information System
@@ -285,7 +273,7 @@ BridgeLabz-Training/
 
 ---
 
-### 📅 Day 20 – Searching & Scenario-Based Questions (06-Jan-2026)
+### 📅 Day 19 – Searching & Scenario-Based Questions (06-Jan-2026)
 
 **Programs Implemented:**
 - PetPal – Virtual Pet Care App
@@ -299,7 +287,7 @@ BridgeLabz-Training/
 
 ---
 
-### 📅 Day 21 – Scenario-Based Design & Sorting Algorithms (07-Jan-2026)
+### 📅 Day 20 – Scenario-Based Design & Sorting Algorithms (07-Jan-2026)
 
 **Programs Implemented:**
 - ParkEase – Smart Parking Management System
@@ -312,7 +300,7 @@ BridgeLabz-Training/
 
 ---
 
-### 📅 Day 22 – Scenario-Based Problem Solving (08-Jan-2026)
+### 📅 Day 21 – Scenario-Based Problem Solving (08-Jan-2026)
 
 **Programs Implemented:**
 - MediStore – Pharmacy Inventory & Sales System
@@ -327,7 +315,7 @@ BridgeLabz-Training/
 
 ---
 
-### 📅 Day 23 – Advanced Scenario-Based Applications (09-Jan-2026)
+### 📅 Day 22 – Advanced Scenario-Based Applications (09-Jan-2026)
 
 **Programs Implemented:**
 - Artify – Digital Art Marketplace
@@ -343,7 +331,7 @@ BridgeLabz-Training/
 
 ---
 
-### 📅 Day 24 – Complex Scenario-Based System Design (10-Jan-2026)
+### 📅 Day 23 – Complex Scenario-Based System Design (10-Jan-2026)
 
 **Programs Implemented:**
 - BookShelf – Library Organizer
@@ -359,7 +347,7 @@ BridgeLabz-Training/
 
 ---
 
-### 📅 Day 25 – Advanced Scenario-Based System Design (12-Jan-2026)
+### 📅 Day 24 – Advanced Scenario-Based System Design (12-Jan-2026)
 
 **Programs Implemented:**
 - **HomeNest** – Smart Home Device Manager
