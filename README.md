@@ -1,63 +1,79 @@
-## Day 10 - Classes, Objects and Introduction to OOPs
-**Date:** 26-Dec-2025
-- Learned Classes and Objects in Java
-- Understood how to define class structure and create objects
-- Started Implementing Object-Oriented Programming System (OOPS) concepts
-- **Code Link:** [classesandobjects](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/core-java-practice)
-
----
-
-## Day 11 - Constructors & Access Modifiers
-**Date:** 27-Dec-2025
-- Practiced default, parameterized, non-parameterized, and copy constructors
-- Learned access modifiers in Java
-- Implemented instance methods
-- **Code Link:** [constructors-practice](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/core-java-practice)
-
----
-
-## Day 12 - Static Members, this Keyword & instanceof Operator
-**Date:** 29-Dec-2025
-- Practiced questions on static variables and static methods
-- Understood the use of the this keyword in Java
-- Learned and implemented the instanceof operator
-- **Code Link:** [keywords](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/core-java-practice)
-
----
-
-## Day 13 - Object Modeling in Java
-**Date:** 30-Dec-2025
-- Studied Object Modeling concepts
-- Understood Association between classes
-- Learned Aggregation (HAS-A relationship – weak coupling) and Composition (HAS-A relationship – strong coupling)
-- **Code Link:** [objectmodeling](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/core-java-practice)
-
----
-
-## Day 14 - Inheritance in Java
-**Date:** 31-Dec-2025
-- Implemented Single Inheritance, Multilevel Inheritance, Hierarchical Inheritance, Hybrid Inheritance (using interfaces)
-- Solved assisted inheritance-based problems for better clarity
-- **Code Link:** [Inheritance](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/core-java-practice)
-
----
-## Day 15 - Four Pillars Implementation
-**Date:** 01-Jan-2026
-
-- Learned and implemented **Polymorphism** (compile-time and runtime)
-- Practiced **Abstraction** using abstract classes along with **Encapsulation**
-- Started solving **scenario-based OOPs questions**
-
-**Code Links:**
-- [ScenarioBased](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-oops-practice/scenario-based-codebase)
-- [FourPillarsImplementation](FourPillarsImplementation)
-
----
-## 📅 Day 16 – Scenario-Based Problem Solving
-**Date:** 02-Jan-2026  
+## 📅 Day 10 – Classes, Objects & Introduction to OOPs
+**Date:** 26-Dec-2025  
 
 **Overview:**
-- Solved **5 real-world scenario-based problems** focusing on system design and workflow logic.
+- Learned Classes and Objects in Java.
+- Understood how to define class structures and create objects.
+- Started implementing Object-Oriented Programming (OOPS) concepts.
+
+👉 **Code Link:** [Classes and Objects](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/core-java-practice)
+
+---
+
+## 📅 Day 11 – Constructors & Access Modifiers
+**Date:** 27-Dec-2025  
+
+**Overview:**
+- Practiced default, parameterized, non-parameterized, and copy constructors.
+- Learned access modifiers in Java.
+- Implemented instance methods.
+
+👉 **Code Link:** [Constructors Practice](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/core-java-practice)
+
+---
+
+## 📅 Day 12 – Static Members, `this` Keyword & `instanceof`
+**Date:** 29-Dec-2025  
+
+**Overview:**
+- Practiced static variables and static methods.
+- Understood the use of the `this` keyword.
+- Learned and implemented the `instanceof` operator.
+
+👉 **Code Link:** [Keywords](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/core-java-practice)
+
+---
+
+## 📅 Day 13 – Object Modeling in Java
+**Date:** 30-Dec-2025  
+
+**Overview:**
+- Studied object modeling concepts.
+- Understood association between classes.
+- Learned aggregation (HAS-A – weak coupling) and composition (HAS-A – strong coupling).
+
+👉 **Code Link:** [Object Modeling](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/core-java-practice)
+
+---
+
+## 📅 Day 14 – Inheritance in Java
+**Date:** 31-Dec-2025  
+
+**Overview:**
+- Implemented Single, Multilevel, Hierarchical, and Hybrid inheritance (using interfaces).
+- Solved inheritance-based problems for better understanding.
+
+👉 **Code Link:** [Inheritance](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/core-java-practice)
+
+---
+
+## 📅 Day 15 – Four Pillars of OOPS Implementation
+**Date:** 01-Jan-2026  
+
+**Overview:**
+- Implemented polymorphism (compile-time & runtime).
+- Practiced abstraction using abstract classes.
+- Applied encapsulation concepts.
+- Started solving scenario-based OOPS problems.
+
+👉 **Code Links:**
+- [Scenario Based Problems](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-oops-practice/scenario-based-codebase)
+- [Four Pillars Implementation](FourPillarsImplementation)
+
+---
+
+## 📅 Day 16 – Scenario-Based Problem Solving
+**Date:** 02-Jan-2026  
 
 **Scenarios Implemented:**
 - Hospital Patient Management System  
@@ -66,43 +82,34 @@
 - E-Wallet Application  
 - Smart Home Automation System  
 
-👉 **Code Link:** [ScenarioBased](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-oops-practice/scenario-based-codebase)
+👉 **Code Link:** [Scenario Based Problems](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-oops-practice/scenario-based-codebase)
 
 ---
 
 ## 📅 Day 17 – Scenario-Based Applications
 **Date:** 03-Jan-2026  
 
-**Overview:**
-- Solved **2 scenario-based problems** involving service-oriented and financial systems.
-
 **Scenarios Implemented:**
 - CabbyGo – Ride-Hailing Application  
 - MyBank – Customer Account Management System  
 
-👉 **Code Link:** [ScenarioBased](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-oops-practice/scenario-based-codebase)
+👉 **Code Link:** [Scenario Based Problems](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-oops-practice/scenario-based-codebase)
 
 ---
 
 ## 📅 Day 18 – Scenario-Based System Design
 **Date:** 05-Jan-2026  
 
-**Overview:**
-- Solved **2 scenario-based problems** emphasizing data handling and modular design.
-
 **Scenarios Implemented:**
 - CampusConnect – College Information System  
 - SwiftCart – Grocery Shopping Application  
 
-👉 **Code Link:** [ScenarioBased](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-oops-practice/scenario-based-codebase)
+👉 **Code Link:** [Scenario Based Problems](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-oops-practice/scenario-based-codebase)
 
 ---
 
 ## 📅 Day 19 – Scenario-Based Problem Solving
 **Date:** 06-Jan-2026  
-
-**Overview:**
-- Solved **4 scenario-based problems** focusing on user-centric and event-driven systems.
 
 **Scenarios Implemented:**
 - EduMentor – Personalized Learning Platform  
@@ -110,92 +117,62 @@
 - PetPal – Virtual Pet Care Application  
 - EventEase – Event Management Platform  
 
-👉 **Code Link:** [ScenarioBased](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-oops-practice/scenario-based-codebase)
+👉 **Code Link:** [Scenario Based Problems](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-oops-practice/scenario-based-codebase)
 
 ---
-## 📅 Day 19 – Advanced OOPS Scenario Case Studies (07-Jan-2026)
 
-**Overview:**
-- Practiced advanced real-world OOPS system designs with business rules and calculations.
-- Applied inheritance, interfaces, encapsulation, polymorphism, constructors, and access control.
+## 📅 Day 20 – Advanced OOPS Scenario Case Studies
+**Date:** 07-Jan-2026  
 
 **Programs Implemented:**
-- **LoanBuddy – Loan Approval Automation System**  
-  Implemented applicant profiling, eligibility verification, EMI calculation, inheritance-based loan types, and restricted loan status updates.
-- **BookBazaar – Digital Bookstore System**  
-  Designed book inventory, order processing, inheritance-based book categories, polymorphic discount logic, and secure stock handling.
-- **ParkEase – Smart Parking Management System**  
-  Built parking slot allocation using polymorphism, encapsulation, and secure booking records.
+- LoanBuddy – Loan Approval Automation System  
+- BookBazaar – Digital Bookstore System  
+- ParkEase – Smart Parking Management System  
 
-**Activities:**
-- Designed scalable OOPS-based systems.
-- Implemented business logic with proper access control.
-- Committed and pushed all changes successfully.
-
-👉 **Code Link:** [Day 19 – Scenario Based Problems](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-oops-practice/scenario-based-codebase)
+👉 **Code Link:** [Advanced OOPS Scenarios](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-oops-practice/scenario-based-codebase)
 
 ---
 
-## 📅 Day 20 – OOPS Scenario Case Studies (08-Jan-2026)
-
-**Overview:**
-- Practiced real-world OOPS system designs with business rules and calculations.
-- Applied inheritance, interfaces, encapsulation, polymorphism, and constructors.
+## 📅 Day 21 – OOPS Scenario Case Studies
+**Date:** 08-Jan-2026  
 
 **Programs Implemented:**
 - MediStore – Pharmacy Inventory & Sales System  
 - TourMate – Travel Itinerary Planner  
 
-**Activities:**
-- Modeled real-world workflows using OOPS principles.
-- Implemented validation and calculation logic.
-- Committed and pushed all changes successfully.
-
-👉 **Code Link:** [Day 20 – Scenario Based Problems](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-oops-practice/scenario-based-codebase)
+👉 **Code Link:** [OOPS Scenarios](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-oops-practice/scenario-based-codebase)
 
 ---
 
-## 📅 Day 21 – Scenario-Based Problem Solving (09-Jan-2026)
+## 📅 Day 22 – Scenario-Based Problem Solving
+**Date:** 09-Jan-2026  
 
 **Programs Implemented:**
 - Artify – Digital Art Marketplace  
 - FoodLoop – Restaurant Ordering System  
 - SkillForge – Online Learning Portal  
 
-**Activities:**
-- Solved multiple scenario-based problems.
-- Focused on modular design and clean architecture.
-- Strengthened OOPS-based problem-solving skills.
-- Committed and pushed all changes successfully.
-
-👉 **Code Link:** [Day 21 – Scenario Based Problems](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-oops-practice/scenario-based-codebase)
+👉 **Code Link:** [Scenario Based Problems](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-oops-practice/scenario-based-codebase)
 
 ---
+
 ## 📅 Day 24 – Scenario-Based Application Development
 **Date:** 12-Jan-2026  
 
-**Overview:**
-- Designed and implemented multiple real-world applications focusing on system workflows and data management.
-
-**Scenarios Implemented:**
+**Programs Implemented:**
 - GameBox – Mobile Game Distribution Platform  
 - BudgetWise – Personal Finance Tracker  
 - HomeNest – Smart Home Device Manager  
 
-👉 **Code Link:** [ScenarioBased](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-oops-practice/scenario-based-codebase)
+👉 **Code Link:** [Scenario Based Problems](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-oops-practice/scenario-based-codebase)
 
 ---
-## 📅 Day 24 – Scenario-Based Application Development
+
+## 📅 Day 25 – Scenario-Based Application Development
 **Date:** 13-Jan-2026  
 
 **Programs Implemented:**
 - PayXpress – Utility Bill Payment System  
-- Bird Sanctuary – Design and Implementation of a Bird Sanctuary System  
+- Bird Sanctuary – Design & Implementation of Bird Sanctuary System  
 
-**Activities:**
-- Designed application workflows based on real-world use cases.
-- Implemented object modeling and core business logic.
-- Committed and pushed all changes successfully.
-
-👉 **Code Link:** [ScenarioBased](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-oops-practice/scenario-based-codebase)
-
+👉 **Code Link:** [Scenario Based Problems](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-oops-practice/scenario-based-codebase)
