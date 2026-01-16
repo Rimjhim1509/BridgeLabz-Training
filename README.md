@@ -365,3 +365,22 @@ BridgeLabz-Training/
 **Code Link:** [scenario-based-problems](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice)
 
 ---
+## 📅 Day 24 – Scenario-Based Problem Solving (13-Jan-2026)
+
+**Programs Implemented:**  (OOPS)
+- PayXpress – Utility Bill Payment System  
+- Bird Sanctuary – Design and Implementation of a Bird Sanctuary System  
+
+**Programs Implemented:** (DSA)
+- SmartCheckout – Supermarket Billing Queue *(Queue + HashMap)*  
+- ParcelTracker – Delivery Chain Management *(Singly Linked List)*  
+- ExamProctor – Online Exam Review System *(Stack + HashMap + Functions)*  
+
+**Activities:**
+- Solved scenario-based problems using OOPS and DSA concepts  
+- Designed real-world workflows and applied appropriate data structures  
+- Committed and pushed all changes successfully  
+
+**Code Link:** [scenario-based-problems](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice)
+
+
