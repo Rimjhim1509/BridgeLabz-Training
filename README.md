@@ -185,3 +185,17 @@
 👉 **Code Link:** [ScenarioBased](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-oops-practice/scenario-based-codebase)
 
 ---
+## 📅 Day 24 – Scenario-Based Application Development
+**Date:** 13-Jan-2026  
+
+**Programs Implemented:**
+- PayXpress – Utility Bill Payment System  
+- Bird Sanctuary – Design and Implementation of a Bird Sanctuary System  
+
+**Activities:**
+- Designed application workflows based on real-world use cases.
+- Implemented object modeling and core business logic.
+- Committed and pushed all changes successfully.
+
+👉 **Code Link:** [ScenarioBased](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-oops-practice/scenario-based-codebase)
+
