@@ -86,3 +86,42 @@
 - Committed and pushed all changes successfully.
 
 👉 **Code Link:** [scenario-based-problems](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice)
+
+---
+
+## 📅 Day 25 – Scenario-Based Problem Solving
+**Date:** 13-Jan-2026  
+
+**Programs Implemented:**
+- SmartCheckout – Supermarket Billing Queue *(Queue + HashMap)*  
+- ParcelTracker – Delivery Chain Management *(Singly Linked List)*  
+- ExamProctor – Online Exam Review System *(Stack + HashMap + Functions)*  
+
+**Activities:**
+- Solved real-world scenario-based problems using appropriate data structures.
+- Applied queues, stacks, linked lists, and hashing for efficient problem solving.
+- Committed and pushed all changes successfully.
+
+👉 **Code Link:** [Scenario Based Problems](ScenarioBased)
+
+---
+
+## 📅 Day 26 – Sorting Algorithm-Based Scenario Problems
+**Date:** 15-Jan-2026  
+
+**Programs Implemented:**
+- HospitalQueue – Patient Sorting by Criticality *(Bubble Sort)*  
+- SmartShelf – Real-Time Book Arrangement *(Insertion Sort)*  
+- ZipZipMart – Daily Sales Summary Report *(Merge Sort)*  
+- EventManager – Ticket Price Optimizer *(Quick Sort)*  
+- ExamCell – Student Rank Generator *(Merge Sort)*  
+
+**Activities:**
+- Solved scenario-based problems using different sorting algorithms.
+- Compared and applied suitable sorting techniques based on problem requirements.
+- Strengthened algorithmic thinking and implementation skills.
+- Committed and pushed all changes successfully.
+
+👉 **Code Link:** [Scenario Based Problems](ScenarioBased)
+
+---
