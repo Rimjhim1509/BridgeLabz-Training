@@ -1,0 +1,15 @@
+package com.PayXpress;
+
+import java.time.LocalDate;
+public class InternetBill extends Bill {
+	public InternetBill(double amount , LocalDate dueDate) {
+		super("Internet" , amount , dueDate);
+	}
+	public void pay() {
+		markPaid() ;
+		System.out.println("Internet bill paid");
+	}
+	public void sendReminder() {
+		System.out.println("Reminder bill is due soon ");
+	}
+}
