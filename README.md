@@ -243,7 +243,7 @@ BridgeLabz-Training/
 - Vehicle Rental Application
 - University Course Enrollment System
 - E-Wallet Application
-- Smart Home Automation System
+- Smart Home Automation System.
 
 **Code Link:** [linked_list](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DSAPractice/src/com/linkedlist)
 
