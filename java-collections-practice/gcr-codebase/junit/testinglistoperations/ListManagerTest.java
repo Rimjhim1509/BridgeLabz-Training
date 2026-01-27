@@ -1,0 +1,44 @@
+package com.testinglistoperations;
+
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
+import java.util.ArrayList;
+import java.util.List;
+
+public class ListManagerTest {
+
+    ListManager manager = new ListManager();
+
+    @Test
+    void testAddElement() {
+        List<Integer> list = new ArrayList<>();
+
+        manager.addElement(list, 10);
+        manager.addElement(list, 20);
+
+        assertTrue(list.contains(10));
+        assertTrue(list.contains(20));
+    }
+
+    @Test
+    void testRemoveElement() {
+        List<Integer> list = new ArrayList<>();
+        list.add(10);
+        list.add(20);
+        list.add(30);
+
+        manager.removeElement(list, 20);
+
+        assertFalse(list.contains(20));
+    }
+
+    @Test
+    void testGetSize() {
+        List<Integer> list = new ArrayList<>();
+
+        manager.addElement(list, 10);
+        manager.addElement(list, 20);
+
+        assertEquals(2, manager.getSize(list));
+    }
+}
