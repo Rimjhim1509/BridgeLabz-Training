@@ -1,4 +1,4 @@
-package com.csvdatahandling.ReadCSV;
+package com.csvdatahandling;
 
 
 import java.io.*;
