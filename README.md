@@ -365,7 +365,7 @@ BridgeLabz-Training/
 **Code Link:** [scenario-based-problems](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice)
 
 ---
-## 📅 Day 24 – Scenario-Based Problem Solving (13-Jan-2026)
+## 📅 Day 25 – Scenario-Based Problem Solving (13-Jan-2026)
 
 **Programs Implemented:**  (OOPS)
 - PayXpress – Utility Bill Payment System  
@@ -383,4 +383,171 @@ BridgeLabz-Training/
 
 **Code Link:** [scenario-based-problems](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice)
 
+### 📅 Day 26 – Scenario-Based DSA Practice  
+**Date:** 15-Jan-2026
 
+### Problems Solved
+- **HospitalQueue** – Patient Sorting by Criticality *(Bubble Sort)*
+- **SmartShelf** – Real-Time Book Arrangement *(Insertion Sort)*
+- **ZipZipMart** – Daily Sales Summary Report *(Merge Sort)*
+- **EventManager** – Ticket Price Optimizer *(Quick Sort)*
+- **ExamCell** – Student Rank Generator *(Merge Sort)*
+
+**Code Link:** [DSA-Scenario](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase)
+
+---
+
+### 📅 Day 27 – Scenario-Based DSA Practice  (16-Jan-2026)
+
+### Problems Solved
+- **RoboWarehouse** – Shelf Loading Robot *(Insertion Sort)*
+- **CinemaHouse** – Movie Time Sorting *(Bubble Sort)*
+- **CropMonitor** – Sensor Data Ordering *(Quick Sort)*
+
+**Code Link:**[DSA-Scenario](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase)
+
+---
+
+### 📅 Day 28 – DSA, Generics & OOPS  (17-Jan-2026)
+### Topics Covered
+- Scenario-based problems on **DSA**
+- **Java Generics**
+  - Generic Classes
+  - Generic Methods
+  - Bounded Types
+- Scenario-based problems on **OOPS**
+**Code Link:** [Generics](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/generics)
+---
+
+### 📅 Day 29 – DSA, Collections & OOPS  (19-Jan-2026)
+### Topics Covered
+- Scenario-based problems on **DSA**
+- **Java Collections Framework**
+  - List
+  - Set
+  - Map
+  - Queue
+- Scenario-based problems on **OOPS**
+**Code Link:** [Collections](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase)
+---
+
+### 📅 Day 30 – DSA & Java Streams  (20-Jan-2026)
+
+### Topics Covered
+- Scenario-based DSA problems using:
+  - Insertion Sort
+  - Merge Sort
+  - Quick Sort
+- **Java Streams**
+  - Efficient data processing
+  - File handling using streams
+
+**Code Link:** [Streams](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice)
+
+---
+
+### 📅 Day 31 – DSA & Exception Handling  (21-Jan-2026)
+
+### Topics Covered
+- Scenario-based DSA problems involving sorting and data organization
+- **Java Exception Handling**
+  - Exception hierarchy
+  - try-catch-finally
+  - throw and throws
+  - Custom exceptions
+
+**Code Link:** [Exception-Handling](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/javaiostreamspractice/src/com)
+[DSA-Scenario](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase)
+
+---
+
+### 📅 Day 32 – Regex & JUnit  (22-Jan-2026)
+
+### Topics Covered
+- **Regular Expressions (Regex)**
+  - Pattern matching
+  - Validation
+  - Text processing
+- **JUnit**
+  - Annotations
+  - Assertions
+  - Unit test implementation
+**Code Link:** [Regex-Junit](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/javaiostreamspractice/src/com)
+
+### 📅 Day 33 – Annotations & Reflection  ( 23-Jan-2026)
+
+### Topics Covered
+- Java Annotations
+  - Built-in annotations
+  - Custom annotations
+- **Reflection API**
+  - Accessing fields
+  - Methods
+  - Constructors
+
+**Code Link:** [Annotations-Reflection](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/javaiostreamspractice/src/com)
+
+---
+
+### 📅 Day 34 – Annotations & Reflection  ( 24-Jan-2026)
+
+### Topics Covered
+- Java Annotations
+  - Built-in annotations
+  - Custom annotations
+- **Reflection API**
+  - Accessing fields
+  - Methods
+  - Constructors
+
+**Code Link:** [Annotations-Reflection](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/javaiostreamspractice/src/com)
+
+
+### 📅 Day 35 – Advanced Scenario-Based Problems  (27-Jan-2026)
+
+### Problems Solved
+- **ResumeAnalyzer** – Resume processing using I/O Streams, Regex, Collections, and Exception Handling
+- **TravelLog** – File handling with Serialization, Regex-based search, and Collection-based summarization
+- **FeedbackGuru** – Text file handling using I/O, Regex extraction, Generics, and Exception Handling
+- **CodeRepoCleaner** – File scanning and organization using I/O, Regex validation, Streams, and Collections
+- **ExamScanner** – CSV handling, Regex-based validation, Generics, and result processing using Collections
+
+**Code Link:** [scenario-based-problems](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/javaiostreamspractice/src/com)
+
+---
+
+### 📅 Day 36 – CSV Data Handling  (28-Jan-2026)
+
+### Topics Covered
+- Real-world CSV-based scenario problems
+- CSV structure and format
+- Reading CSV files using:
+  - FileReader
+  - BufferedReader
+- Parsing, validation, and error handling
+- Custom exception handling with CSV data
+**Code Link:** [CSV-Data](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/javaiostreamspractice/src/com)
+  
+
+### 📅 Day 37 – JSON Data Handling  ( 29-Jan-2026)
+
+### Topics Covered
+- JSON structure and validation
+- CSV to JSON conversion
+- JSON validation
+- Error handling for invalid or inconsistent data
+
+**Code Link:** [JSON-Data](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/javaiostreamspractice/src/com)
+
+---
+
+### 📅 Day 38 – Annotation-Driven Applications  (30-Jan-2026)
+
+### Problems Solved
+- **HealthCheckPro** – Annotation-based API metadata handling using Reflection and auto documentation generation
+- **MarkMate** – CSV file handling with data processing and JSON report generation
+- **EventTracker** – Annotation-driven event handling using Reflection and structured JSON logging
+
+**Code Link:** [scenario-based-problems](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/javaiostreamspractice/src/com)
+
+---
