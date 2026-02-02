@@ -14,7 +14,7 @@ public class UserCredential implements SensitiveData {
 		return name;
 	}
 
-	public double getId() {
+	public String getId() {
 		return id;
 	}
 }
