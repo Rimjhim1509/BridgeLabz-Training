@@ -551,3 +551,97 @@ BridgeLabz-Training/
 **Code Link:** [scenario-based-problems](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/javaiostreamspractice/src/com)
 
 ---
+
+### 📅 Day 39 – Lambda and Functional Interface  ( 31-Jan-2026 )
+
+- Studied the concept of Lambda expressions in Java  
+- Learned Functional Interfaces and their purpose  
+- Practiced implementing lambda expressions with functional interfaces  
+- Explored built-in functional interfaces like `Predicate`, `Consumer`, `Supplier`, and `Function`  
+- Committed and pushed all changes successfully  
+**Code Link:** [scenario-based-problems](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java8-programmming-practice/java8-programming-practice/gcr-codebase/java8programmingpractice/src/com/lambdaexpressions)
+
+---
+
+### 📅 Day 40 – Stream API   (02-Feb-2026 )
+
+- Studied the concept of Stream API in Java  
+- Learned intermediate and terminal stream operations  
+- Practiced operations like `filter`, `map`, `sorted`, and `collect`  
+- Implemented data processing using streams on collections  
+- Committed and pushed all changes successfully  
+
+**Code Link:** [scenario-based-problems](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java8-programmming-practice/java8-programming-practice/gcr-codebase/java8programmingpractice/src/com/streamapi)
+
+---
+
+### 📅  Day 41 – Collectors  (02-Feb-2026 )
+
+- Studied the `Collectors` utility class in Java Stream API  
+- Learned collector methods like `toList`, `toSet`, `toMap`, and `groupingBy`  
+- Practiced collecting and transforming stream data into various collections  
+- Implemented grouping and partitioning operations using collectors  
+- Committed and pushed all changes successfully  
+
+**Code Link:** [scenario-based-problems](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java8-programmming-practice/java8-programming-practice/gcr-codebase/java8programmingpractice/src/com/collectors) 
+
+---
+
+### 📅 Day 42 – Workshop: Smart City Transport & Service Management System  ( 04-Feb-2026  )
+
+- Participated in a workshop on Smart City Transport & Service Management System  
+- Understood system design and real-world problem modeling  
+- Practiced implementing scenario-based transport and service problems  
+- Applied collections and stream concepts in practical use cases  
+- Committed and pushed all changes successfully  
+
+**Code Link:** [scenario-based-problems](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java8-programmming-practice/java8-programming-practice/gcr-codebase/java8programmingpractice/src/com/collectors)
+
+---
+
+### 📅  Day 43 – Practiced Scenario-based Problems (Java 8)  (05-Feb-2026)
+
+- Solved scenario-based problems using Java 8 features  
+- Applied Lambda expressions and Functional Interfaces in real-world cases  
+- Used Stream API and Collectors for data processing  
+- Practiced writing clean and optimized Java 8 code  
+- Committed and pushed all changes successfully  
+
+**Code Link:** [scenario-based-problems](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java8-programmming-practice/java8-programming-practice/gcr-codebase/java8programmingpractice/src/com/lambdaexpressions)
+
+---
+
+### 📅 Day 44 – Case Study: Library Management System (Design Patterns & SOLID)  (06-Feb-2026)
+
+- Analyzed a Library Management System using core Design Patterns  
+- Applied SOLID principles for better system architecture and maintainability  
+- Designed modular components following object-oriented best practices  
+- Evaluated scalability and extensibility using proper abstraction  
+- Committed and pushed all changes successfully  
+
+**Code Link:** [scenario-based-problems](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-design-practice)
+
+---
+---
+
+## 📅 Day 45 – Java Exercises & Multithreading Practice  (07-Feb-2026)  
+
+### Core Java Exercises
+
+**Exercise 1: Simple CRUD Application**    
+**Exercise 2: Transaction Management**  
+**Exercise 3: Advanced Features – Library Management System**  
+
+### Multithreading Practice
+
+Implemented real-world multithreading scenarios:
+1. **Print Shop Job Scheduler** – Managed multiple print jobs using threads  
+2. **Thread State Monitoring System** – Observed lifecycle and state transitions of threads  
+3. **Restaurant Order Processing System** – Simulated concurrent order handling  
+4. **Banking System with Multiple Transactions** – Ensured thread-safe balance updates  
+5. **Download Manager** – Handled parallel file downloads using multithreading  
+
+**Code Link:**   [Multithreadig & MySQL ](https://github.com/Rimjhim1509/BridgeLabz-Training/tree/java-design-practice)
+
+---
+
